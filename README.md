@@ -67,6 +67,10 @@ I’m currently focused on:
   <a href="https://www.linkedin.com/in/lucas-massahiro-obuchi-967823328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/hiro_obuchi/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://github.com/lukemassa-hiro"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://bellivery.com.br">
+  <img src="https://img.shields.io/badge/Bellivery-%233A2050.svg?style=for-the-badge&logo=sparkles&logoColor=white"/>
+</a>
+
 </p>
 
 ---
