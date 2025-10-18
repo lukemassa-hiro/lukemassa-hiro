@@ -1,62 +1,81 @@
-# 👋 Hi, I'm Lucas Massahiro Obuchi
-
-🎓 **Computer Science student** at UniFil (Centro Universitário Filadélfia, Brazil)  
-💻 Passionate about **software development**, **innovation**, and **creative problem solving**
-
----
-
-## 🚀 About Me
-
-I’m a developer who believes that technology should not only solve problems — it should **inspire people**.  
-Currently, I’m focused on **professional growth in IT** and improving my **creative and strategic thinking** through real-world projects.
-
-One of my biggest dreams (and projects) is **Bellivery**, a local startup born from purpose:  
-> _“Delivering beauty and self-care experiences to people’s homes, with agility and heart.”_
-
-Through Bellivery, I’ve learned that technology, branding, and empathy can work together to make a difference in people’s daily lives.  
+<!-- 🌸 Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=ff9ebd&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Lucas+Massahiro+Obuchi;Computer+Science+student+from+Brazil+🎓;Founder+of+Bellivery+🌸;Your+favorite+marketplace.">
+</p>
 
 ---
 
-## 🧠 Tech Stack
+### 👨‍💻 About Me
 
-| Area | Technologies |
-|------|---------------|
-| Backend | **Java**, **Spring Boot**, **Laravel (PHP)** |
-| Frontend | **HTML5**, **CSS3** |
-| Databases | **MySQL**, **PostgreSQL**, **SQLite** |
-| Tools | IntelliJ IDEA, VS Code, XAMPP, Git/GitHub |
+I’m **Lucas Massahiro Obuchi**, a **Computer Science student at UniFil (Brazil)** and a **developer driven by creativity, precision, and purpose**.  
+I believe that technology should do more than solve problems — it should **inspire**.  
 
----
+I’m currently focused on:
+- 🚀 **Professional growth** in software development and IT
+- 🎨 **Creative thinking** applied to technology and entrepreneurship
+- 🌸 **Building Bellivery**, a startup that delivers beauty, self-care, and confidence to people’s homes  
 
-## 🌱 Current Focus
-
-- Enhancing my **professional development in software engineering**  
-- Refining **creative thinking** and **entrepreneurial strategy**  
-- Expanding the vision of **Bellivery**, from a local idea to a brand with purpose  
+> _“Delivering beauty with purpose.”_ — **Bellivery**
 
 ---
 
-## 💡 Personal Philosophy
+### 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+### 🌱 Current Focus
+
+- Enhancing **software engineering** and **creative problem-solving**  
+- Expanding **Bellivery**, combining technology, emotion, and experience  
+- Connecting innovation with **human purpose**
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lukemassa-hiro&show_icons=true&theme=rose_pine" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukemassa-hiro&layout=compact&theme=rose_pine" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=lukemassa-hiro&theme=rose-pine" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌸 Bellivery — Beauty Meets Agility
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFyc2RzNzd4MWx1eGh0dTdjZWN3MGd5d2N4c3I2MWo5d3JraTF0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YTbZzCkRQCEJa/giphy.gif" width="300" alt="Bellivery aesthetic gif"/>
+</p>
+
+> _“Delivering more than products — delivering self-esteem, care, and connection.”_
+
+---
+
+### 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/lukemassa-hiro"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 💬 Personal Philosophy
 
 > _"Technology is powerful — but purpose gives it meaning."_  
+> _"Keep building. Keep believing. Bellivery is just the beginning."_ 🌸
 
-I see programming as an art of connection: between logic and emotion, between people and possibilities.
-
----
-
-## 📈 GitHub Stats
-
-![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasMassahiroObuchi&show_icons=true&theme=rose_pine)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMassahiroObuchi&layout=compact&theme=rose_pine)
-
----
-
-## 🌍 Connect with Me
-
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🌸 [Instagram](https://instagram.com/yourprofile)  
-- 🧩 [Bellivery Project](https://github.com/yourproject)  
-
----
-
-⭐ *“Keep building. Keep believing. Bellivery is just the beginning.”*
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="Coding GIF">
+</p>
