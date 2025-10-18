@@ -77,5 +77,5 @@ I’m currently focused on:
 > _"Keep building. Keep believing. Bellivery is just the beginning."_ 🌸
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="Coding GIF">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdja3R3Nnl3aXJnbjZzYnRsZGhjaHNoOWZna2h5OXV6aDViaXh0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HvyiJIitYr8o4jU1yr/giphy.gif">
 </p>
