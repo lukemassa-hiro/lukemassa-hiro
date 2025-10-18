@@ -77,8 +77,8 @@ I’m currently focused on:
 
 ### 💬 Personal Philosophy
 
-> _"Technology is powerful — but purpose gives it meaning."_  
-> _"Keep building. Keep believing. Bellivery is just the beginning."_ 🌸
+> _"“We build not only to exist — but to give meaning to existence.”
+— Inspired by Viktor Frankl"
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdja3R3Nnl3aXJnbjZzYnRsZGhjaHNoOWZna2h5OXV6aDViaXh0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HvyiJIitYr8o4jU1yr/giphy.gif">
