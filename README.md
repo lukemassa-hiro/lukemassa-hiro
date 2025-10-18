@@ -54,7 +54,7 @@ I’m currently focused on:
 ### 🌸 Bellivery — Beauty Meets Agility
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFyc2RzNzd4MWx1eGh0dTdjZWN3MGd5d2N4c3I2MWo5d3JraTF0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YTbZzCkRQCEJa/giphy.gif" width="300" alt="Bellivery aesthetic gif"/>
+  
 </p>
 
 > _“Delivering more than products — delivering self-esteem, care, and connection.”_
@@ -64,8 +64,8 @@ I’m currently focused on:
 ### 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/lucas-massahiro-obuchi-967823328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/hiro_obuchi/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://github.com/lukemassa-hiro"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
