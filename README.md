@@ -8,14 +8,14 @@
 ### 👨‍💻 About Me
 
 I’m **Lucas Massahiro Obuchi**, a **Computer Science student at UniFil (Brazil)** and a **developer driven by creativity, precision, and purpose**.  
-I believe that technology should do more than solve problems — it should **inspire**.  
+I believe that technology should do more than solve problems, it should **inspire**.  
 
 I’m currently focused on:
 - 🚀 **Professional growth** in software development and IT
 - 🎨 **Creative thinking** applied to technology and entrepreneurship
 - 🌸 **Building Bellivery**, a startup that delivers beauty, self-care, and confidence to people’s homes  
 
-> _“Delivering beauty with purpose.”_ — **Bellivery**
+> _“Delivering beauty with purpose.”_ | **Bellivery**
 
 ---
 
@@ -57,7 +57,7 @@ I’m currently focused on:
   
 </p>
 
-> _“Delivering more than products — delivering self-esteem, care, and connection.”_
+> _“Delivering more than products, delivering self-esteem, care, and connection.”_
 
 ---
 
